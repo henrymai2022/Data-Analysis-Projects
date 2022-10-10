@@ -1,0 +1,101 @@
+rank,name,net_worth,bday,age,nationality
+1,Elon Musk,$240 Billion,6/28/1971,51,South Africa
+2,Jeff Bezos,$150 Billion,1/12/1964,58,United States of America
+3,Gautam Adani,$138 Billion,6/24/1962,60,India
+4,Bernard Arnault,$135 Billion,3/5/1949,73,France
+5,Bill Gates,$118 Billion,10/28/1955,66,United States of America
+6,Warren Buffett,$101 Billion,8/30/1930,92,United States of America
+7,Larry Page,$100 Billion,3/26/1973,49,United States of America
+8,Sergey Brin,$96 Billion,8/21/1973,48,United States of America
+9,Steve Ballmer,$94 Billion,3/24/1956,66,United States of America
+10,Larry Ellison,$93 Billion,8/17/1944,78,United States of America
+11,Alain & Gerard Wertheimer,$90 Billion,9/28/1948,74,France
+12,Mukesh Ambani,$89 Billion,4/19/1957,65,India
+13,Carlos Slim Helu,$72 Billion,1/28/1940,82,Mexico
+14,Vladimir Putin,$70 Billion,10/7/1952,69,Russia
+15,Françoise Bettencourt-Meyers,$70 Billion,7/10/1953,69,France
+16,Amancio Ortega Gaona,$70 Billion,3/28/1936,86,Spain
+17,Michael Bloomberg,$70 Billion,2/14/1942,80,United States of America
+18,Mark Zuckerberg,$70 Billion,5/14/1984,38,United States of America
+19,Rob Walton,$68 Billion,10/28/1944,77,United States of America
+20,Jim Walton,$68 Billion,6/7/1948,74,United States of America
+21,Zhong Shanshan,$68 Billion,1/1/1954,68,China
+22,Alice Walton,$66 Billion,10/7/1949,72,United States of America
+23,Julia Flesher Koch,$62 Billion,4/12/1962,60,United States of America
+24,Charles Koch,$60 Billion,11/1/1935,86,United States of America
+25,Michael Dell,$52 Billion,2/23/1965,57,United States of America
+26,Francois Pinault,$50 Billion,8/21/1936,86,France
+27,David Thomson,$50 Billion,6/12/1957,65,Canada
+28,Ma Huateng,$48 Billion,10/29/1971,50,China
+29,Alain Wertheimer,$45 Billion,9/28/1948,73,France
+30,Gerard Wertheimer,$45 Billion,4/17/1951,71,French
+31,Zhang Yiming,$44 Billion,4/1/1983,39,China
+32,Tadashi Yanai,$42 Billion,2/7/1949,73,Japan
+33,John Mars,$42 Billion,10/15/1935,86,United States of America
+34,Jacqueline Mars,$42 Billion,10/10/1939,82,United States of America
+35,Phil Knight,$40 Billion,2/24/1938,84,United States of America
+36,Vladimir Potanin,$35 Billion,1/3/1961,61,Russia
+37,Stephen Schwarzman,$35 Billion,2/14/1947,75,United States of America
+38,Jack Ma,$34 Billion,10/15/1964,57,China
+39,Miriam Adelson,$34 Billion,10/10/1945,76,"American, Israeli"
+40,Colin Huang,$33 Billion,1/1/1980,42,China
+41,Lee Shau Kee,$33 Billion,3/7/2028,94,China
+42,Len Blavatnik,$32 Billion,6/14/1957,65,United Kingdom
+43,Li Ka-shing,$31 Billion,7/29/2028,94,Canada
+44,Gina Rinehart,$31 Billion,2/9/1954,68,Australia
+45,Sheikh Mansour bin Zayed Al Nahyan,$30 Billion,11/20/1970,51,Emirati
+46,Masayoshi Son,$30 Billion,8/11/1957,65,Japan
+47,Sultan of Brunei,$30 Billion,7/15/1946,76,Brunei
+48,Maha Vajiralongkorn,$30 Billion,7/28/1952,70,Thailand
+49,Giovanni Ferrero,$28 Billion,9/21/1964,57,Italy
+50,Ken Griffin,$28 Billion,10/15/1968,53,United States of America
+51,Abigail Johnson,$28 Billion,12/19/1961,60,United States of America
+52,He Xiangjian,$27 Billion,10/5/1942,79,China
+53,Dieter Schwarz,$27 Billion,9/24/1939,82,Germany
+54,William Ding,$26 Billion,10/1/1971,50,China
+55,Shiv Nadar,$25.9 Billion,7/14/1945,77,India
+56,Stefan Persson,$25 Billion,10/4/1947,74,Sweden
+57,Joseph Safra,$25 Billion,9/1/1938,82,Brazil
+58,Eric Yuan,$25 Billion,2/20/1970,52,China
+59,Carl Icahn,$24 Billion,2/16/1936,86,United States of America
+60,Takemitsu Takizaki,$24 Billion,6/10/1945,77,Japan
+61,Pierre Omidyar,$24 Billion,6/21/1967,55,United States of America
+62,Forrest Mars Jr,$23.4 Billion,8/16/1931,91,United States of America
+63,Jorge Paulo Lemann,$23 Billion,8/26/1939,83,Brazil
+64,Eric Schmidt,$23 Billion,4/27/1955,67,United States of America
+65,Satoshi Nakamoto,$22 Billion,4/5/1975,73,Japan
+66,Qin Yinglin,$22 Billion,1/1/1965,57,China
+67,James Simons,$22 Billion,4/25/1938,84,United States of America
+68,Wang Wei,$22 Billion,10/1/1970,51,China
+69,James Dyson,$22 Billion,5/2/1947,75,United Kingdom
+70,Aliko Dangote,$21 Billion,4/10/1957,65,Nigeria
+71,Leonard Lauder,$21 Billion,3/19/1933,89,United States of America
+72,Andrey Melnichenko,$21 Billion,3/8/1972,50,Russia
+73,Sir Evelyn De Rothschild,$20 Billion,8/29/1931,90,England
+74,Salman bin Abdulaziz Al Saud,$20 Billion,12/31/1935,86,Saudi Arabia
+75,Alexey Mordashov,$20 Billion,9/26/1965,56,Russia
+76,John Menard,$20 Billion,1/22/1940,82,United States of America
+77,Elaine Marshall,$20 Billion,11/18/1945,76,United States of America
+78,Rupert Murdoch,$20 Billion,3/11/1931,91,Australia
+79,Dan Gilbert,$20 Billion,1/17/1962,60,United States of America
+80,Leonid Mikhelson,$20 Billion,8/11/1955,67,Russia
+81,Pallonji Mistry,$19 Billion,6/1/2029,93,India
+82,Susanne Klatten,$19 Billion,4/28/1962,60,Germany
+83,Eduardo Saverin,$19 Billion,3/19/1982,40,Brazil
+84,Vladimir Lisin,$19 Billion,5/7/1956,66,Russia
+85,James Ratcliffe,$19 Billion,10/18/1952,69,United Kingdom
+86,Laurene Powell Jobs,$19 Billion,11/6/1963,58,United States of America
+87,Lakshmi Mittal,$18 Billion,9/2/1950,71,India
+88,David & Simon Reuben,$18 Billion,1/1/1941,81,United Kingdom
+89,Sheikh Khalifa Bin Zayed Al Nahyan,$18 Billion,1/25/1948,74,United Arab Emirates
+90,Alisher Usmanov,$18 Billion,9/9/1953,68,Russia
+91,Lukas Walton,$18 Billion,9/19/1953,36,United States of America
+92,Serge Dassault,$17.3 Billion,4/4/2025,97,France
+93,Pavel Durov,$17 Billion,10/10/1984,37,Russia
+94,Donald Bren,$17 Billion,5/11/1932,90,United States of America
+95,Thomas Peterffy,$17 Billion,9/30/1944,77,United States of America
+96,Prince Al Waleed Bin Talal Alsaud,$17 Billion,3/7/1955,67,Saudi Arabia
+97,Harold Hamm,$17 Billion,12/11/1945,76,United States of America
+98,Viktor Vekselberg,$17 Billion,4/14/1957,65,Russia
+99,Steven Cohen,$16 Billion,6/11/1956,66,United States of America
+100,Stefan Quandt,$16 Billion,5/9/1966,56,Germany

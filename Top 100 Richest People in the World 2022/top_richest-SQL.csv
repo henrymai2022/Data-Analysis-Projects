@@ -1,0 +1,101 @@
+RankID,name,net_worth,YEAR,MONTH,DAY,age,nationality
+1,Elon Musk,$240 ,1971,6,28,51,South Africa
+2,Jeff Bezos,$150 ,1964,1,12,58,United States of America
+3,Gautam Adani,$138 ,1962,6,24,60,India
+4,Bernard Arnault,$135 ,1949,3,5,73,France
+5,Bill Gates,$118 ,1955,10,28,66,United States of America
+6,Warren Buffett,$101 ,1930,8,30,92,United States of America
+7,Larry Page,$100 ,1973,3,26,49,United States of America
+8,Sergey Brin,$96 ,1973,8,21,48,United States of America
+9,Steve Ballmer,$94 ,1956,3,24,66,United States of America
+10,Larry Ellison,$93 ,1944,8,17,78,United States of America
+11,Alain & Gerard Wertheimer,$90 ,1948,9,28,74,France
+12,Mukesh Ambani,$89 ,1957,4,19,65,India
+13,Carlos Slim Helu,$72 ,1940,1,28,82,Mexico
+14,Vladimir Putin,$70 ,1952,10,7,69,Russia
+15,FranÃ§oise Bettencourt-Meyers,$70 ,1953,7,10,69,France
+16,Amancio Ortega Gaona,$70 ,1936,3,28,86,Spain
+17,Michael Bloomberg,$70 ,1942,2,14,80,United States of America
+18,Mark Zuckerberg,$70 ,1984,5,14,38,United States of America
+19,Rob Walton,$68 ,1944,10,28,77,United States of America
+20,Jim Walton,$68 ,1948,6,7,74,United States of America
+21,Zhong Shanshan,$68 ,1954,1,1,68,China
+22,Alice Walton,$66 ,1949,10,7,72,United States of America
+23,Julia Flesher Koch,$62 ,1962,4,12,60,United States of America
+24,Charles Koch,$60 ,1935,11,1,86,United States of America
+25,Michael Dell,$52 ,1965,2,23,57,United States of America
+26,Francois Pinault,$50 ,1936,8,21,86,France
+27,David Thomson,$50 ,1957,6,12,65,Canada
+28,Ma Huateng,$48 ,1971,10,29,50,China
+29,Alain Wertheimer,$45 ,1948,9,28,73,France
+30,Gerard Wertheimer,$45 ,1951,4,17,71,French
+31,Zhang Yiming,$44 ,1983,4,1,39,China
+32,Tadashi Yanai,$42 ,1949,2,7,73,Japan
+33,John Mars,$42 ,1935,10,15,86,United States of America
+34,Jacqueline Mars,$42 ,1939,10,10,82,United States of America
+35,Phil Knight,$40 ,1938,2,24,84,United States of America
+36,Vladimir Potanin,$35 ,1961,1,3,61,Russia
+37,Stephen Schwarzman,$35 ,1947,2,14,75,United States of America
+38,Jack Ma,$34 ,1964,10,15,57,China
+39,Miriam Adelson,$34 ,1945,10,10,76,"American, Israeli"
+40,Colin Huang,$33 ,1980,1,1,42,China
+41,Lee Shau Kee,$33 ,2028,3,7,94,China
+42,Len Blavatnik,$32 ,1957,6,14,65,United Kingdom
+43,Li Ka-shing,$31 ,2028,7,29,94,Canada
+44,Gina Rinehart,$31 ,1954,2,9,68,Australia
+45,Sheikh Mansour bin Zayed Al Nahyan,$30 ,1970,11,20,51,Emirati
+46,Masayoshi Son,$30 ,1957,8,11,65,Japan
+47,Sultan of Brunei,$30 ,1946,7,15,76,Brunei
+48,Maha Vajiralongkorn,$30 ,1952,7,28,70,Thailand
+49,Giovanni Ferrero,$28 ,1964,9,21,57,Italy
+50,Ken Griffin,$28 ,1968,10,15,53,United States of America
+51,Abigail Johnson,$28 ,1961,12,19,60,United States of America
+52,He Xiangjian,$27 ,1942,10,5,79,China
+53,Dieter Schwarz,$27 ,1939,9,24,82,Germany
+54,William Ding,$26 ,1971,10,1,50,China
+55,Shiv Nadar,$25.90 ,1945,7,14,77,India
+56,Stefan Persson,$25 ,1947,10,4,74,Sweden
+57,Joseph Safra,$25 ,1938,9,1,82,Brazil
+58,Eric Yuan,$25 ,1970,2,20,52,China
+59,Carl Icahn,$24 ,1936,2,16,86,United States of America
+60,Takemitsu Takizaki,$24 ,1945,6,10,77,Japan
+61,Pierre Omidyar,$24 ,1967,6,21,55,United States of America
+62,Forrest Mars Jr,$23.40 ,1931,8,16,91,United States of America
+63,Jorge Paulo Lemann,$23 ,1939,8,26,83,Brazil
+64,Eric Schmidt,$23 ,1955,4,27,67,United States of America
+65,Satoshi Nakamoto,$22 ,1975,4,5,73,Japan
+66,Qin Yinglin,$22 ,1965,1,1,57,China
+67,James Simons,$22 ,1938,4,25,84,United States of America
+68,Wang Wei,$22 ,1970,10,1,51,China
+69,James Dyson,$22 ,1947,5,2,75,United Kingdom
+70,Aliko Dangote,$21 ,1957,4,10,65,Nigeria
+71,Leonard Lauder,$21 ,1933,3,19,89,United States of America
+72,Andrey Melnichenko,$21 ,1972,3,8,50,Russia
+73,Sir Evelyn De Rothschild,$20 ,1931,8,29,90,England
+74,Salman bin Abdulaziz Al Saud,$20 ,1935,12,31,86,Saudi Arabia
+75,Alexey Mordashov,$20 ,1965,9,26,56,Russia
+76,John Menard,$20 ,1940,1,22,82,United States of America
+77,Elaine Marshall,$20 ,1945,11,18,76,United States of America
+78,Rupert Murdoch,$20 ,1931,3,11,91,Australia
+79,Dan Gilbert,$20 ,1962,1,17,60,United States of America
+80,Leonid Mikhelson,$20 ,1955,8,11,67,Russia
+81,Pallonji Mistry,$19 ,2029,6,1,93,India
+82,Susanne Klatten,$19 ,1962,4,28,60,Germany
+83,Eduardo Saverin,$19 ,1982,3,19,40,Brazil
+84,Vladimir Lisin,$19 ,1956,5,7,66,Russia
+85,James Ratcliffe,$19 ,1952,10,18,69,United Kingdom
+86,Laurene Powell Jobs,$19 ,1963,11,6,58,United States of America
+87,Lakshmi Mittal,$18 ,1950,9,2,71,India
+88,David & Simon Reuben,$18 ,1941,1,1,81,United Kingdom
+89,Sheikh Khalifa Bin Zayed Al Nahyan,$18 ,1948,1,25,74,United Arab Emirates
+90,Alisher Usmanov,$18 ,1953,9,9,68,Russia
+91,Lukas Walton,$18 ,1953,9,19,36,United States of America
+92,Serge Dassault,$17.30 ,2025,4,4,97,France
+93,Pavel Durov,$17 ,1984,10,10,37,Russia
+94,Donald Bren,$17 ,1932,5,11,90,United States of America
+95,Thomas Peterffy,$17 ,1944,9,30,77,United States of America
+96,Prince Al Waleed Bin Talal Alsaud,$17 ,1955,3,7,67,Saudi Arabia
+97,Harold Hamm,$17 ,1945,12,11,76,United States of America
+98,Viktor Vekselberg,$17 ,1957,4,14,65,Russia
+99,Steven Cohen,$16 ,1956,6,11,66,United States of America
+100,Stefan Quandt,$16 ,1966,5,9,56,Germany
